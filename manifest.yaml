@@ -1,16 +1,1 @@
-type: install
-name: Test Mixins
-baseUrl: https://github.com/SlavaKatiukha/cs-mixins-test
 
-mixins:
-  - mixin1.yaml
-  - mixin2.yaml
-  
-actions:
-  mainTest:
-    log: mainTest
-
-onInstall:
-  - mainTest
-  - mixin1Test
-  - mixin2Test
