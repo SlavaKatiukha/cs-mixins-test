@@ -10,7 +10,7 @@ actions:
   mainTest:
     log: mainTest
 
-onInstall
+onInstall:
   - mainTest
   - mixin1Test
   - mixin2Test
