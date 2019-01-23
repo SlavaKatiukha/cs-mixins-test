@@ -1,4 +1,4 @@
-type: update
+type: install
 name: Test Mixins
 baseUrl: https://github.com/SlavaKatiukha/cs-mixins-test
 
