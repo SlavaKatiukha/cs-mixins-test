@@ -1,0 +1,3 @@
+actions:
+  mixin2Test:
+    log: mixin2Test
