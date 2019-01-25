@@ -5,7 +5,7 @@ baseUrl: https://raw.githubusercontent.com/SlavaKatiukha/cs-mixins-test/master
 mixins:
   - mixin1.yaml
   - mixin2.yaml
-  - mixin3.yaml
+#  - mixin3.yaml
   
 actions:
   mainTest:
