@@ -1,6 +1,6 @@
 type: install
 name: Test Mixins
-baseUrl: https://github.com/SlavaKatiukha/cs-mixins-test
+baseUrl: https://raw.githubusercontent.com/SlavaKatiukha/cs-mixins-test/master
 
 mixins:
   - mixin1.yaml
