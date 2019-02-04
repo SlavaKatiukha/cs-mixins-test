@@ -1,3 +1,6 @@
+mixins:
+- https://github.com/SlavaKatiukha/cs-mixins-test/blob/master/mixin1.yaml
+
 actions:
   mixin1Test:
     log: mixin1Test
